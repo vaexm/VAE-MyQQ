@@ -1,0 +1,22 @@
+﻿<Window x:Class="_1017MyQQ.vae.AddFriend"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Title="AddFriend" Height="320" Width="584" Loaded="Window_Loaded" WindowStyle="None" Background="{x:Null}" MouseLeftButtonDown="Window_MouseLeftButtonDown"> 
+    <Canvas Width="584" Height="320" Name="back">
+        <Label Canvas.Left="61" Canvas.Top="22" Content="找人" Height="28" Name="label1" Width="41" />
+        <Label Canvas.Left="171" Canvas.Top="22" Content="找群" Height="28" Name="label2" />
+        <Label Canvas.Left="298" Canvas.Top="22" Content="附近的人" MouseLeftButtonDown="label3_MouseLeftButtonDown" Height="28" Name="label3" />
+        <TextBox Canvas.Left="12" Canvas.Top="69"  Height="23" Name="textBox1" Text="请输入昵称/QQ号/手机号/邮箱" Width="204" GotFocus="textBox1_GotFocus" />
+        <ComboBox Canvas.Left="262" SelectedIndex="0" Canvas.Top="69" Height="23" Name="comboBox1" Width="94" >
+            <ComboBoxItem Content="按昵称查找"></ComboBoxItem>
+            <ComboBoxItem Content="按帐号查找"></ComboBoxItem>
+        </ComboBox>
+        <Button Canvas.Left="394" Canvas.Top="69" Content="查找" Click="button1_Click"   Height="23" Name="button1" Width="56" />
+        <Button Canvas.Left="487" Canvas.Top="68" Content="添加好友" Click="button2_Click" Height="23" Name="button2" Width="85" />
+        <DataGrid AutoGenerateColumns="True" Canvas.Left="12" Canvas.Top="108" Height="200" Name="dataGrid1" Width="538" />
+        <Image Canvas.Left="0" Source="images/play/34.jpg" Canvas.Top="0" Height="320" Name="image1" Panel.ZIndex="-5" Stretch="Fill" Width="584" />
+        <Button Canvas.Left="487" Click="button3_Click" Canvas.Top="0" Background="{x:Null}" Content="一" Height="23" Name="button3" Width="39" />
+        <Button Canvas.Left="532" Click="button4_Click" Canvas.Top="0" Background="{x:Null}" Content="X" Height="23" Name="button4" Width="40" />
+        <Label Canvas.Left="0" Canvas.Top="-1" Background="HotPink" Content="添加好友" Height="28" Name="label4" Width="67" />
+    </Canvas>
+</Window>

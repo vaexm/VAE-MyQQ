@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33995DFF-130B-40F7-89EA-B4F4B8550A48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_1017MyQQ.vae</RootNamespace>
+    <AssemblyName>1017MyQQ.vae</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AddFriend.xaml.cs">
+      <DependentUpon>AddFriend.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chat.xaml.cs">
+      <DependentUpon>Chat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Face.xaml.cs">
+      <DependentUpon>Face.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUserInfo.xaml.cs">
+      <DependentUpon>LoginUserInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainUser.xaml.cs">
+      <DependentUpon>MainUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Regist.xaml.cs">
+      <DependentUpon>Regist.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddFriend.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Chat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Face.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginUserInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Regist.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{137F2FC0-FEE9-485B-B5C3-0707CFF9F71F}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{A27DF2BB-F3B5-42F7-9191-9FA133B6799F}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODEL\MODEL.csproj">
+      <Project>{8BF02EF1-6BA0-42F6-878D-F3719C2DD0E7}</Project>
+      <Name>MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qq截图3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\faces\1.jpg" />
+    <Resource Include="images\faces\10.jpg" />
+    <Resource Include="images\faces\11.jpg" />
+    <Resource Include="images\faces\12.jpg" />
+    <Resource Include="images\faces\13.jpg" />
+    <Resource Include="images\faces\14.jpg" />
+    <Resource Include="images\faces\15.jpg" />
+    <Resource Include="images\faces\16.jpg" />
+    <Resource Include="images\faces\17.jpg" />
+    <Resource Include="images\faces\18.jpg" />
+    <Resource Include="images\faces\2.jpg" />
+    <Resource Include="images\faces\3.jpg" />
+    <Resource Include="images\faces\4.jpg" />
+    <Resource Include="images\faces\5.jpg" />
+    <Resource Include="images\faces\6.jpg" />
+    <Resource Include="images\faces\7.jpg" />
+    <Resource Include="images\faces\8.jpg" />
+    <Resource Include="images\faces\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\faces\19.jpg" />
+    <Resource Include="images\faces\20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\faces\qq1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qq皮肤.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qq截图2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qq截图1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qqRegist1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\qq5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\proxy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\34.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\36.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\37.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\play\Fri1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

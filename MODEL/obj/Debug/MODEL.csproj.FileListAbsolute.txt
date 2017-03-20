@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\MODEL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\MODEL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\MODEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\MODEL\obj\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\MODEL\obj\Debug\MODEL.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\MODEL\bin\Debug\MODEL.dll
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\MODEL\bin\Debug\MODEL.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\MODEL\obj\Debug\ResolveAssemblyReference.cache
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\MODEL\obj\Debug\MODEL.dll
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\MODEL\obj\Debug\MODEL.pdb

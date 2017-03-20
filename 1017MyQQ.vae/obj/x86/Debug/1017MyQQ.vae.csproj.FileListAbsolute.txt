@@ -1,0 +1,93 @@
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.exe
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.g.resources
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\_1017MyQQ.vae.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.exe
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.pdb
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.exe
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\App.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae_MarkupCompile.cache
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.g.resources
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\_1017MyQQ.vae.Properties.Resources.resources
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.exe
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.dll
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.dll
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.dll
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.g.cs
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.exe
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.pdb
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.exe
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\1017MyQQ.vae.pdb
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.dll
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.dll
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.dll
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\BLL.pdb
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\DAL.pdb
+H:\1017MyQQ.vae\1017MyQQ.vae\bin\Debug\MODEL.pdb
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.baml
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Chat.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Face.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\LoginUserInfo.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainUser.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\MainWindow.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\Regist.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\App.g.cs
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae_MarkupCompile.cache
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\1017MyQQ.vae.g.resources
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\_1017MyQQ.vae.Properties.Resources.resources
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.baml
+C:\Documents and Settings\Administrator\桌面\1017MyQQ.vae\1017MyQQ.vae\obj\x86\Debug\AddFriend.g.cs
